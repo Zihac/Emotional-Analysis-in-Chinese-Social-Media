@@ -30,6 +30,6 @@ The code was executed on Google Colab using a GPU with Persistent-RAM.
 Code available under MIT license.
 
 ## References
-Cui, Y., Che, W., Liu, T., Qin, B., and Yang, Z. 2021. "Pre-Training with Whole Word Masking for Chinese Bert," IEEE/ACM Transactions on Audio, Speech, and Language Processing (29), pp. 3504-3514.
-Li, Y., and Fei, L. 2021. "Applying Language Model in Business Research," in: Workshop at Hong Kong Polytechnic University.
-Quan, C., and Ren, F. 2010. "A Blog Emotion Corpus for Emotional Expression Analysis in Chinese," Computer Speech & Language (24:4), pp. 726-749.
+1. Cui, Y., Che, W., Liu, T., Qin, B., and Yang, Z. 2021. "Pre-Training with Whole Word Masking for Chinese Bert," IEEE/ACM Transactions on Audio, Speech, and Language Processing (29), pp. 3504-3514.
+2. Li, Y., and Fei, L. 2021. "Applying Language Model in Business Research," in: Workshop at Hong Kong Polytechnic University.
+3. Quan, C., and Ren, F. 2010. "A Blog Emotion Corpus for Emotional Expression Analysis in Chinese," Computer Speech & Language (24:4), pp. 726-749.
