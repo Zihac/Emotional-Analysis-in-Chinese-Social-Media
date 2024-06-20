@@ -22,8 +22,8 @@ This configuration describes a BertForMultilabelSequenceClassification model, sp
 - mapping for up to nine labels with values ranging from 0 to 1: 'anger','anxiety','expect','hate','joy','love','sorrow','surprise','neutral'.
   
 ## Usage
-To train and evaluate the model: Tune_Emotional_Model.ipynb
-To apply the model on social media comments data: Apply_TunedModel_Comments.ipynb
+- To train and evaluate the model: Tune_Emotional_Model.ipynb
+- To apply the model on social media comments data: Apply_TunedModel_Comments.ipynb
 ## Dependencies
 The code was executed on Google Colab using a GPU with Persistent-RAM.
 ## License
