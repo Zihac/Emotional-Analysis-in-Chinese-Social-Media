@@ -19,7 +19,7 @@ This configuration describes a BertForMultilabelSequenceClassification model, sp
 - uses GELU activation function for bidirectional processing.
 - with a vocabulary size of 21,128, supports sequences up to 512 tokens in length.
 - attention and hidden dropout probabilities are set at 0.1, ensuring regularization during training.
-- mapping for up to nine labels: 'anger','anxiety','expect','hate','joy','love','sorrow','surprise','neutral'.
+- mapping for up to nine labels with values ranging from 0 to 1: 'anger','anxiety','expect','hate','joy','love','sorrow','surprise','neutral'.
   
 ## Usage
 To train and evaluate the model: Tune_Emotional_Model.ipynb
@@ -31,5 +31,5 @@ Code available under MIT license.
 
 ## References
 1. Cui, Y., Che, W., Liu, T., Qin, B., and Yang, Z. 2021. "Pre-Training with Whole Word Masking for Chinese Bert," IEEE/ACM Transactions on Audio, Speech, and Language Processing (29), pp. 3504-3514.
-2. Li, Y., and Fei, L. 2021. "Applying Language Model in Business Research," in: Workshop at Hong Kong Polytechnic University.
+2. Li, Y., and Fei, L. 2021. "Applying Language Model in Business Research," Workshop at Hong Kong Polytechnic University.
 3. Quan, C., and Ren, F. 2010. "A Blog Emotion Corpus for Emotional Expression Analysis in Chinese," Computer Speech & Language (24:4), pp. 726-749.
