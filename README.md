@@ -15,7 +15,7 @@ Adapt a pre-trained model, i.e., Chinese-RoBERTa (https://huggingface.co/hfl/chi
 ## Model Architecture
 This configuration describes a BertForMultilabelSequenceClassification model, specifically the hfl/chinese-roberta-wwm-ext version, designed for multilabel sequence classification tasks. Specifically, it
 
-- features 12 hidden layers with 768 hidden units each, and 12 attention heads, and 102M parameters.
+- features 12  transformer layers with 768 hidden units each, and 12 attention heads, and 102M parameters.
 - uses GELU activation function for bidirectional processing.
 - with a vocabulary size of 21,128, supports sequences up to 512 tokens in length.
 - attention and hidden dropout probabilities are set at 0.1, ensuring regularization during training.
